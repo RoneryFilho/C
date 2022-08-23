@@ -3,7 +3,7 @@
 #include <locale.h>
 
 int main(void){
-
+    //Fahrenheit para celsius
     setlocale(LC_ALL, "Portuguese");
     float far;
 
